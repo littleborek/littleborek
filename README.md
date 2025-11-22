@@ -1,33 +1,24 @@
-Merhaba, Ben Berk! 👋 | Hello, I'm Berk! 👋
+👨‍💻 Merhaba, Ben Berk! | Hello, I'm Berk!
 
-🇹🇷 Yazılım Mühendisi | Full-Stack & Sistem Geliştiricisi
+🎯 Yazılım Mühendisi | Software Engineer
 
-Yazılım Mühendisliği alanında, özellikle yüksek performanslı Backend sistemler (Java, Spring Boot) ve modern DevOps/CI/CD süreçleri üzerine odaklanmış bir geliştiriciyim. Projelerimde temiz kod, sistem mimarisi ve akademik algoritma yaklaşımlarını birleştirmeyi seviyorum.
+Açıklama	Description
+Backend sistemler (Java, Spring Boot) ve modern DevOps süreçlerine odaklı geliştiriciyim.	I am a developer focused on Backend systems (Java, Spring Boot) and modern DevOps/CI/CD processes.
 
-🇬🇧 Software Engineer | Full-Stack & Systems Developer
+🛠 Teknik Alanlar | Core Expertise
 
-I am a developer focused on Software Engineering, particularly on high-performance Backend systems (Java, Spring Boot) and modern DevOps/CI/CD processes. I enjoy combining clean code, system architecture, and academic algorithm approaches in my projects.
+Kategori	Türkçe Odak	English Focus
+Backend / API	Java, Spring Boot, Gerçek zamanlı API'ler.	Java, Spring Boot, Real-time API development.
+Frontend / Web	JavaScript, Tailwind CSS, Performans odaklı UI.	JavaScript, Tailwind CSS, Performance-focused UI.
+Sistemler / Altyapı	Cloudflare Workers (Serverless), KV Storage	Cloudflare Workers, KV Storage, Distributed architectures.
+Sistem Mimarisi	Düşük seviyeli sistemler, CPU simülasyonu.	Low-level systems, CPU architecture, Caching logic.
+Algoritma	Python, Metrik TSP gibi Algoritmaların analizi.	Python, Analysis and implementation of Algorithms (e.g., Metric TSP).
 
-🛠 Teknolojilerim & Uzmanlık Alanlarım | My Tech Stack & Expertise
+✨ Öne Çıkan Projeler | Featured Projects
 
-Kategori	Diller & Araçlar / Languages & Tools	Proje Bağlamı / Project Context
-Backend / Core	Java, Spring Boot, WebSockets	Gerçek zamanlı uygulamalar ve API geliştirme. / Real-time applications and API development.
-Frontend / Web	JavaScript, Tailwind CSS, GitHub Actions	Modern, performans odaklı kullanıcı arayüzleri ve CI/CD süreçleri. / Modern, performance-focused UIs and CI/CD.
-Algoritma / Sistem	Python, Veri Yapıları, CPU Mimarisi	Algoritmaların implementasyonu ve CPU simülasyonu. / Algorithm implementation and CPU simulation.
-Serverless / DB	Cloudflare Workers, KV Storage	Dağıtık ve sunucusuz API çözümleri. / Distributed and serverless API solutions.
+Proje Adı	Türkçe Özet	English Summary
+urlshortener	Monorepo yapıda, Manifest V3 uyumlu tarayıcı eklentisi (Chrome/Firefox) ve Tailwind frontend içeren yüksek performanslı URL kısaltma servisi.	High-performance URL shortening service with a Monorepo structure, featuring a Manifest V3 compliant browser extension.
+CPU-Emulator...	Java ile geliştirilmiş, Direct-Mapped Cache ve Write-Through politikası içeren simüle edilmiş bir CPU mimarisi projesi.	A Java-based simulated CPU architecture project featuring a Direct-Mapped Cache and Write-Through policy.
+spring-boot-chat-app	Java, Spring Boot ve WebSockets kullanarak geliştirilmiş gerçek zamanlı chat uygulaması.	A real-time chat application developed using Java, Spring Boot, and WebSockets.
 
-✨ Öne Çıkan Projelerim | Featured Projects
-
-    urlshortener (Monorepo): Cloudflare Workers (KV) destekli, Manifest V3 uyumlu tarayıcı eklentisi (Chrome/Firefox) ve Tailwind frontend içeren yüksek performanslı URL kısaltma servisi.
-
-        (EN): High-performance URL shortening service with a Monorepo structure, featuring a Cloudflare Workers (KV) backend, a Tailwind frontend, and a Manifest V3 compliant browser extension (Chrome/Firefox).
-
-    CPU-Emulator-with-Direct-Mapped-Cache-and-Write-Through-Policy: Java ile geliştirilmiş, direkt eşlemeli önbellek (Cache) ve Write-Through politikası içeren simüle edilmiş bir CPU mimarisi projesi.
-
-        (EN): A simulated CPU architecture project developed with Java, featuring a direct-mapped cache and Write-Through policy.
-
-    An-Analysis-of-Approximation-Algorithms-for-Metric-TSP: Python kullanılarak hazırlanan, Metrik Seyahat Eden Satıcı Problemi (Metric TSP) için yaklaştırma algoritmalarının performans analizini yapan akademik uygulama.
-
-        (EN): An academic application using Python to analyze the performance of approximation algorithms for the Metric Traveling Salesperson Problem (TSP).
-
-🌐 Live Service: short.berkk.cloud
+🌐 Canlı Servis: short.berkk.cloud
