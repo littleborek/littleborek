@@ -1,24 +1,51 @@
-👨‍💻 Merhaba, Ben Berk! | Hello, I'm Berk!
+<div align="center">
 
-🎯 Yazılım Mühendisi | Software Engineer
+# Hi, I'm Berk! 👋
 
-Açıklama	Description
-Backend sistemler (Java, Spring Boot) ve modern DevOps süreçlerine odaklı geliştiriciyim.	I am a developer focused on Backend systems (Java, Spring Boot) and modern DevOps/CI/CD processes.
+### 🚀 Software Engineer
+**Backend Systems (Java) | System Architecture | DevOps**
 
-🛠 Teknik Alanlar | Core Expertise
+*Yüksek performanslı sistemler ve modern mimariler geliştirmeye odaklıyım.*
 
-Kategori	Türkçe Odak	English Focus
-Backend / API	Java, Spring Boot, Gerçek zamanlı API'ler.	Java, Spring Boot, Real-time API development.
-Frontend / Web	JavaScript, Tailwind CSS, Performans odaklı UI.	JavaScript, Tailwind CSS, Performance-focused UI.
-Sistemler / Altyapı	Cloudflare Workers (Serverless), KV Storage	Cloudflare Workers, KV Storage, Distributed architectures.
-Sistem Mimarisi	Düşük seviyeli sistemler, CPU simülasyonu.	Low-level systems, CPU architecture, Caching logic.
-Algoritma	Python, Metrik TSP gibi Algoritmaların analizi.	Python, Analysis and implementation of Algorithms (e.g., Metric TSP).
+---
 
-✨ Öne Çıkan Projeler | Featured Projects
+### 🛠 Tech Stack
 
-Proje Adı	Türkçe Özet	English Summary
-urlshortener	Monorepo yapıda, Manifest V3 uyumlu tarayıcı eklentisi (Chrome/Firefox) ve Tailwind frontend içeren yüksek performanslı URL kısaltma servisi.	High-performance URL shortening service with a Monorepo structure, featuring a Manifest V3 compliant browser extension.
-CPU-Emulator...	Java ile geliştirilmiş, Direct-Mapped Cache ve Write-Through politikası içeren simüle edilmiş bir CPU mimarisi projesi.	A Java-based simulated CPU architecture project featuring a Direct-Mapped Cache and Write-Through policy.
-spring-boot-chat-app	Java, Spring Boot ve WebSockets kullanarak geliştirilmiş gerçek zamanlı chat uygulaması.	A real-time chat application developed using Java, Spring Boot, and WebSockets.
+| **Core & Backend** | **Frontend & Web** | **DevOps & Cloud** |
+| :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **WebSockets** | **HTML5/CSS3** | **KV Storage** |
 
-🌐 Canlı Servis: short.berkk.cloud
+</div>
+
+---
+
+### 🔥 Featured Projects
+
+#### 1. 🔗 [urlshortener](https://github.com/littleborek/urlshortener)
+> **Full-Stack URL Shortening Service (Monorepo)**
+>
+> * **Tech:** Cloudflare Workers, KV Storage, Tailwind CSS, Manifest V3.
+> * **Features:** Cross-browser extension, Custom slugs, QR Code generation, 7-day TTL.
+> * **Live:** [short.berkk.cloud](https://short.berkk.cloud)
+
+#### 2. 💻 [CPU-Emulator-with-Cache](https://github.com/littleborek/CPU-Emulator-with-Direct-Mapped-Cache-and-Write-Through-Policy)
+> **System Architecture Simulation**
+>
+> * **Tech:** Java
+> * **Focus:** Direct-Mapped Cache simulation & Write-Through policy implementation.
+
+#### 3. 📊 [Metric-TSP-Analysis](https://github.com/littleborek/An-Analysis-of-Approximation-Algorithms-for-Metric-TSP)
+> **Algorithmic Performance Analysis**
+>
+> * **Tech:** Python
+> * **Focus:** Implementation and analysis of approximation algorithms for the Traveling Salesperson Problem.
+
+---
+
+<div align="center">
+  <a href="https://short.berkk.cloud">
+    <img src="https://img.shields.io/badge/Live_Service-s.berkk.cloud-blue?style=for-the-badge" alt="Live Link">
+  </a>
+</div>
