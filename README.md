@@ -11,7 +11,7 @@ Focused on modern CI/CD pipelines, automation, and high-performance backend arch
 
 </div>
 <div align="center">
-  <a href="https://short.berkk.cloud">
-    <img src="https://img.shields.io/badge/Live_Service-s.berkk.cloud-blue?style=for-the-badge" alt="Live Link">
+  <a href="https://berkk.cloud">
+    <img src="https://img.shields.io/badge/berkk.cloud-blue?style=for-the-badge" alt="Live Link">
   </a>
 </div>
